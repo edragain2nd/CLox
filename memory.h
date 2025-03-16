@@ -1,6 +1,4 @@
-//
-// Created by edragain on 3/16/25.
-//
+
 #ifndef clox_memory_h
 #define clox_memory_h
 

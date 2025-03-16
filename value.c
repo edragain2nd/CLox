@@ -1,6 +1,4 @@
-//
-// Created by edragain on 3/16/25.
-//
+
 #include <stdio.h>
 
 #include "memory.h"
